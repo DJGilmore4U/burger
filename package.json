@@ -1,0 +1,35 @@
+{
+  "name": "eat-a-burger",
+  "version": "1.0.0",
+  "description": "A restaurant app that lets users input names of burgers they want to eat",
+  "main": "burger.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0",
+    "engines": {
+      "node":"8.9.4"
+    }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJGilmore4U/burger.git"
+  },
+  "keywords": [
+    "burgers_db"
+  ],
+  "author": "DJ Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJGilmore4U/burger/issues"
+  },
+  "homepage": "https://github.com/DJGilmore4U/burger#readme"
+}
