@@ -11,7 +11,7 @@
     "method-override": "^2.3.10",
     "mysql": "^2.15.0",
     "engines": {
-      "node":"8.9.4"
+      "node": "8.9.4"
     }
   },
   "devDependencies": {},
