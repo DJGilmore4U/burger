@@ -1,5 +1,5 @@
 html {
-    background-color: #FFC04C;
+    background-color: #0E336C;
 }
 
 body {
@@ -75,15 +75,15 @@ h2 {
     width: 100%;
     margin: 0;
     padding: 10px;
-    background-color: #FFC04C;
+    background-color: #0E336C;
     border: none;
 }
 
 .addBurgerButton:active {
-   background-color: #FFC04C;
+   background-color: #0E336C;
 }
 
 .burgerFooter {
-   background-color: #FFC04C;
+   background-color: #0E336C;
    padding: 20px 0;
 }
