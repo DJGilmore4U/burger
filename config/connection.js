@@ -11,10 +11,10 @@ if (process.env.JAWSDB_URL) {
 	// DB is local on localhost
 	connection = mysql.createConnection({
 		port: 3306,
-		host: 'localhost',
-		user: 'root',
-		password: 'root',
-		database: 'burgers_db'
+		host: 'ocvwlym0zv3tcn68.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
+		user: 'yt7yfl50zr47gl8st',
+		password: '	qizi86bj7jl9sk4u',
+		database: 'fue94jyocrvi31zr'
 	})
 };
 
